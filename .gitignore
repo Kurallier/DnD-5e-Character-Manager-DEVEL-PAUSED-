@@ -1,4 +1,4 @@
 **/*.exe
 **/*.todo
 **/*.tasks
-Devel/**
+Main\ Project/Devel/**
