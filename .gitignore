@@ -1,4 +1,4 @@
 **/*.exe
 **/*.todo
 **/*.tasks
-**/sandbox.c
+Devel/**
